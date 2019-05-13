@@ -1,6 +1,6 @@
 # Udacity_Data_Analyst_Nonadegree
 
-# Getting Started
+## Getting Started
 To complete this project, 
 you will use Jupyter Notebooks through a workspace in the classroom. 
 Jupyter Notebooks are a great way to work with your code interactively 
@@ -9,7 +9,7 @@ The next few concepts in this lesson will help you get started with understandin
 If you would like to learn more about these tools, or you need some additional help to get started, 
 you can check out Anaconda and Jupyter Notebooks in the "Intro to Data Analysis" Core Concept of this course.
 
-# Completing This Project
+## Completing This Project
 The Jupyter Notebook in the "Project Notebook" concept has all the information required to submit this project. 
 Click on the Bike_Share_Analysis.ipynb file to start up the notebook kernel. 
 Read through the notebook, answering questions and running blocks of code when prompted. 
